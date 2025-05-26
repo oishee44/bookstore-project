@@ -8,7 +8,7 @@ This is a simple Bookstore web application built with Laravel (PHP framework). I
 
 <div align="center">
   
-[![Book Store Laravel Demo](https://github.com/noobdevsam/book-store-laravel-project/blob/master/resources/Screenshot2025-05-22.png)](https://youtu.be/q6frX2yFqKc)
+[![Book Store Laravel Demo](https://github.com/noobdevsam/book-store-laravel-project/blob/master/resources/Screenshot2025-05-22.png)](https://youtu.be/GVEXF-ii0I8)
 
 </div>
 
